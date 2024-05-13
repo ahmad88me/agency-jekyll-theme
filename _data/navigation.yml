@@ -77,3 +77,24 @@ de: &DEFAULT_DE
       url: https://github.com/raviriley/agency-jekyll-theme/
 de-DE:
   <<: *DEFAULT_DE
+
+# Arabic
+# -----------------
+en: &DEFAULT_AR
+  nav:
+    - title: "الخدمات"
+      section: الخدمات
+    - title: "مشاريعنا"
+      section: مشاريعنا
+    - title: "عنا"
+      section: عنا
+    - title: "Timeline"
+      section: timeline
+    - title: "الفريق"
+      section: الفريق
+    - title: "تواصل معنا"
+      section: تواصل معنا
+    - title: "Theme Source"
+      url: https://github.com/raviriley/agency-jekyll-theme/
+ar-KW:
+  <<: *DEFAULT_AR
